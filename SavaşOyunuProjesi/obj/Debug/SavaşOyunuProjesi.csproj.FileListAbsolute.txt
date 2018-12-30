@@ -1,0 +1,14 @@
+C:\Users\Osmann\source\repos\SavaşOyunuProjesi\SavaşOyunuProjesi\bin\Debug\SavaşOyunuProjesi.exe.config
+C:\Users\Osmann\source\repos\SavaşOyunuProjesi\SavaşOyunuProjesi\bin\Debug\SavaşOyunuProjesi.exe
+C:\Users\Osmann\source\repos\SavaşOyunuProjesi\SavaşOyunuProjesi\bin\Debug\SavaşOyunuProjesi.pdb
+C:\Users\Osmann\source\repos\SavaşOyunuProjesi\SavaşOyunuProjesi\obj\Debug\SavaşOyunuProjesi.csprojAssemblyReference.cache
+C:\Users\Osmann\source\repos\SavaşOyunuProjesi\SavaşOyunuProjesi\obj\Debug\SavaşOyunuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Osmann\source\repos\SavaşOyunuProjesi\SavaşOyunuProjesi\obj\Debug\SavaşOyunuProjesi.exe
+C:\Users\Osmann\source\repos\SavaşOyunuProjesi\SavaşOyunuProjesi\obj\Debug\SavaşOyunuProjesi.pdb
+C:\Users\Osmann\Desktop\SavaşOyunuProjesi\SavaşOyunuProjesi\SavaşOyunuProjesi\bin\Debug\SavaşOyunuProjesi.exe.config
+C:\Users\Osmann\Desktop\SavaşOyunuProjesi\SavaşOyunuProjesi\SavaşOyunuProjesi\bin\Debug\SavaşOyunuProjesi.exe
+C:\Users\Osmann\Desktop\SavaşOyunuProjesi\SavaşOyunuProjesi\SavaşOyunuProjesi\bin\Debug\SavaşOyunuProjesi.pdb
+C:\Users\Osmann\Desktop\SavaşOyunuProjesi\SavaşOyunuProjesi\SavaşOyunuProjesi\obj\Debug\SavaşOyunuProjesi.csprojAssemblyReference.cache
+C:\Users\Osmann\Desktop\SavaşOyunuProjesi\SavaşOyunuProjesi\SavaşOyunuProjesi\obj\Debug\SavaşOyunuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Osmann\Desktop\SavaşOyunuProjesi\SavaşOyunuProjesi\SavaşOyunuProjesi\obj\Debug\SavaşOyunuProjesi.exe
+C:\Users\Osmann\Desktop\SavaşOyunuProjesi\SavaşOyunuProjesi\SavaşOyunuProjesi\obj\Debug\SavaşOyunuProjesi.pdb
